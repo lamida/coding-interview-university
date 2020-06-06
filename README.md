@@ -236,7 +236,16 @@ Sometimes the classes are not in session so you have to wait a couple of months,
       - [topcoder](https://www.topcoder.com/community/competitive-programming/tutorials/)
     - Don't make assumption in interview, ask question
     - Be assertive and open minded at the same time
-- [ ] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+- [X] [Whiteboarding](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
+    - Company will err on the side of not hiring to avoid false positive
+    - Steps:
+      - Slow down
+      - ask questions
+      - code how you'd normally code
+      - check your work
+      - practice
+      - research
+      - have fun
 - [ ] [Effective Whiteboarding during Programming Interviews](http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/)
 - [ ] [Demystifying Tech Recruiting](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] Cracking The Coding Interview Set 1:
